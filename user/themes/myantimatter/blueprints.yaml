@@ -1,0 +1,16 @@
+name: Antimatter
+version: 1.1.6
+description: "Myantimatter is my modified theme of the default Antimatter theme included with **Grav**"
+icon: empire
+author:
+  name: Dusko Pijetlovic
+  email: dusko@duskopijetlovic.com
+  url: http://duskopijetlovic.com
+homepage: http://duskopijetlovic.com
+keywords: antimatter, theme, core, modern, fast, responsive, html5, css3
+bugs: https://github.com/getgrav/grav-theme-antimatter/issues
+license: MIT
+
+form:
+  validation: strict
+  fields:
